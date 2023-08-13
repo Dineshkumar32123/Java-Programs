@@ -1,0 +1,21 @@
+class Assignment
+{
+	public static void main (String args[]){
+		byte b_num=127;
+		System.out.println(b_num);
+		short s_num = 1500;
+		System.out.println(s_num);
+		int i_num = 20000;
+		System.out.println(i_num);
+		long l_num = 9876543210l;
+		System.out.println(l_num);
+		float f_num= 128.66f;
+		System.out.println(f_num);
+		double d_num = 14785.265;
+		System.out.println(d_num);
+		char c_value = 'D';
+		System.out.println(c_value);
+		boolean b_value = false;
+		System.out.println(b_value);	
+	}
+}
