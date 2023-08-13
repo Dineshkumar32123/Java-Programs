@@ -3,6 +3,7 @@ package Com.Tabrez;
 public class Test {
     private String color="Black";
     private int Age=22;
+    private String name="Farhan";
     //cons
     Test(){
         //L>I
@@ -15,5 +16,13 @@ public class Test {
     }
     public void setAge(int new_Age){
         Age=new_Age;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 }
