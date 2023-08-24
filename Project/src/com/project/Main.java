@@ -51,6 +51,7 @@ public class Main {
                     break;
                 case 4:
                     services.getUser();
+
                     break;
                 case 5:
                     services.getUserByEmail();
