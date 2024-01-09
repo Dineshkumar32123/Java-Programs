@@ -1,14 +1,10 @@
 package com.project;
 
-public abstract class Customer {
-    long aadharno;
-    String cname;
+public abstract interface Customer {
+    static long aadharno=87806331321l;
+    static String name="Dinesh";
 
-    public Customer(long aadharno, String cname) {
+    //abstract method
+    public abstract  void citizenship();
 
-        this.aadharno = aadharno;
-        this.cname = cname;
-    }
-
-    public abstract void citizenship();
 }

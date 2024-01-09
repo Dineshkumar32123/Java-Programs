@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4c990c8-72ef-41e6-9e0f-6e1be737859d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Activity/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/Activity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/activity2/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/activity2/Copyarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/activity2/DivisibleorNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/activity2/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/activity2/IntCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/activity2/PositiveNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/activity2/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/activity2/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/activity3/Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/activity3/Copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/activity3/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/activity3/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/activity3/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/activity3/SumProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/activity4/DelElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/activity4/SecLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/activity4/SortAscending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/classroom/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/classroom/CompareString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/classroom/removeduplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/practiceroom/RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/practiceroom/Removeparticular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/practiceroom/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/practiceroom/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity/src/com/part3/practiceroom/StringPresentOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/Activity2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/activity2/Array1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/activity2/Copyarray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/activity2/DivisibleorNot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/activity2/EvenOdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/activity2/IntCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/activity2/PositiveNegative.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/activity2/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/activity2/Reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/activity3/Char.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/activity3/Copy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/activity3/Count.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/activity3/Merge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/activity3/Reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/activity3/SumProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/activity4/DelElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/activity4/SecLargest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/activity4/SortAscending.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/classroom/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/classroom/CompareString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/classroom/removeduplicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/practiceroom/RemoveDuplicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/practiceroom/Removeparticular.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/practiceroom/Reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/practiceroom/Sorting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/out/production/Activity2/com/part3/practiceroom/StringPresentOrNot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/activity2/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/activity2/Copyarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/activity2/DivisibleorNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/activity2/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/activity2/IntCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/activity2/PositiveNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/activity2/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/activity2/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/activity3/Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/activity3/Copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/activity3/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/activity3/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/activity3/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/activity3/SumProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/activity4/DelElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/activity4/SecLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/activity4/SortAscending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/classroom/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/classroom/CompareString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/classroom/removeduplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/practiceroom/RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/practiceroom/Removeparticular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/practiceroom/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/practiceroom/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Activity2/src/com/part3/practiceroom/StringPresentOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aggregation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank_Bazaar/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProject/MiniProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProject/out/production/MiniProject/com/project/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProject/out/production/MiniProject/com/project/model/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProject/out/production/MiniProject/com/project/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProject/out/production/MiniProject/com/project/services/UserInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProject/out/production/MiniProject/com/project/services/UserServiceImplement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProject/src/com/project/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProject/src/com/project/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProject/src/com/project/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProject/src/com/project/services/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiniProject/src/com/project/services/UserServiceImplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mobile_Sim/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oops concept/.idea/shelf/Uncommitted_changes_before_Update_at_10-08-2023_17_52_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oops concept/.idea/shelf/Uncommitted_changes_before_Update_at_10-08-2023_17_52__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oops concept/.idea/shelf/Uncommitted_changes_before_Update_at_10-08-2023_18_06_[Changes]/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oops concept/.idea/shelf/Uncommitted_changes_before_Update_at_10-08-2023_18_06_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oops concept/.idea/shelf/Uncommitted_changes_before_Update_at_10-08-2023_18_06__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oops concept/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism_Assessment/practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part2_Mock/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Activity2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MiniProject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project p1/JavaPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../project p1/JavaPractice" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UZgvP3nSG2SYCgllusO1naOSkC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Java practice/Number programs/NumberPrograms/src/PrimeNumber.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.StrongNum">
+    <configuration name="PerfectNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.part1_programs.PerfectNum" />
+      <module name="Part1_programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.part1_programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrongNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.part1_programs.StrongNum" />
+      <module name="Part1_programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.part1_programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="factors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.part1_programs.factors" />
+      <module name="Part1_programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.part1_programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StrongNum" />
+        <item itemvalue="Application.PerfectNum" />
+        <item itemvalue="Application.factors" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4c990c8-72ef-41e6-9e0f-6e1be737859d" name="Changes" comment="" />
+      <created>1693152750104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693152750104</updated>
+    </task>
+    <servers />
+  </component>
+</project>

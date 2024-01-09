@@ -1,0 +1,16 @@
+class Loop 
+{
+
+	public static void main(String args[]){
+		a();
+	}
+	public static void a(){
+		System.out.println("Hi");//hi
+		a();
+	}
+
+
+}
+
+
+	

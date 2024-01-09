@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c30de601-9205-419a-966b-8504874acdef" name="Changes" comment="Aug 1 to 8">
+      <change afterPath="$PROJECT_DIR$/../../../Git/01-08-2023/Practice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/01-08-2023/Practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/01-08-2023/Practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/01-08-2023/Practice/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/01-08-2023/Practice/out/production/Practice/ProgrammingLanguage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/01-08-2023/Practice/out/production/Practice/java.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/01-08-2023/Practice/out/production/Practice/python.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/01-08-2023/Practice/src/ProgrammingLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/01-08-2023/Practice/src/java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/01-08-2023/Practice/src/python.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/02-08-2023/Classroom/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/02-08-2023/Classroom/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/02-08-2023/Classroom/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/02-08-2023/Classroom/Classroom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/02-08-2023/Classroom/out/production/Classroom/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/02-08-2023/Classroom/out/production/Classroom/Adriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/02-08-2023/Classroom/out/production/Classroom/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/02-08-2023/Classroom/out/production/Classroom/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/02-08-2023/Classroom/out/production/Classroom/cab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/02-08-2023/Classroom/out/production/Classroom/cabDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/02-08-2023/Classroom/out/production/Classroom/macro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/02-08-2023/Classroom/out/production/Classroom/mini.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/02-08-2023/Classroom/out/production/Classroom/sedan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/02-08-2023/Classroom/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/02-08-2023/Classroom/src/Adriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/02-08-2023/Classroom/src/cab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/02-08-2023/Classroom/src/cabDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/Assignment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/Assignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/Assignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/Assignment/Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/Assignment/out/production/Assignment/Java.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/Assignment/out/production/Assignment/Javascript.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/Assignment/out/production/Assignment/JavascriptDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/Assignment/out/production/Assignment/Python.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/Assignment/out/production/RuntimeEg/Bike.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/Assignment/out/production/RuntimeEg/C1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/Assignment/out/production/RuntimeEg/C1Driver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/Assignment/out/production/RuntimeEg/C2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/Assignment/out/production/RuntimeEg/C3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/Assignment/out/production/RuntimeEg/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/Assignment/out/production/RuntimeEg/CarDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/Assignment/src/Javascript.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/Assignment/src/JavascriptDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/RuntimeEg/RuntimeEg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/RuntimeEg/src/C1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/RuntimeEg/src/C1Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/RuntimeEg/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/04-08-2023/RuntimeEg/src/CarDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/07-08-2023/Assignment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/07-08-2023/Assignment/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/07-08-2023/Assignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/07-08-2023/Assignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/07-08-2023/Assignment/Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/07-08-2023/Assignment/out/production/Assignment/Laptop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/07-08-2023/Assignment/out/production/Assignment/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/07-08-2023/Assignment/src/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/07-08-2023/Assignment/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/08-08-2023/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/08-08-2023/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/08-08-2023/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/08-08-2023/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/08-08-2023/08-08-2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/08-08-2023/Assignment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/08-08-2023/Assignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/08-08-2023/Assignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/08-08-2023/Assignment/Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/08-08-2023/Assignment/out/production/Assignment/Mobile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/08-08-2023/Assignment/src/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Git/08-08-2023/out/production/08-08-2023/Mobile.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../Git" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c71eedeb-7e4f-45ed-8ebd-0ae219ace853" />
+        <option name="url" value="https://github.com/Dineshkumar32123/Daily-program.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TkM4MFHMV7mShtOH1RjIrsjf7T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "C:/Git/08-08-2023"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c30de601-9205-419a-966b-8504874acdef" name="Changes" comment="" />
+      <created>1691582435158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691582435158</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Day 1">
+      <created>1691599793756</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691599793756</updated>
+    </task>
+    <task id="LOCAL-00002" summary="AUG 9- Assignment">
+      <created>1691600775566</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691600775566</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Aug 1 to 8">
+      <created>1691602482482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691602482482</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Day 1" />
+    <MESSAGE value="AUG 9- Assignment" />
+    <MESSAGE value="Aug 1 to 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aug 1 to 8" />
+  </component>
+</project>
