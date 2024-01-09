@@ -1,0 +1,19 @@
+class Condition 
+{
+
+//syntex ---> access_modifier modifier return_type method_name(formal_args){} ---> method decleration stmt
+
+	public static void main(String[] args){
+		fun(10,5);
+		System.out.println();
+		fun(20);
+	}
+
+
+	public static void fun(int a ,int b){
+		System.out.println(a+b);//add
+		System.out.println(a-b);//sub
+		System.out.println(a*b);//mul
+		System.out.println(a/b);//div
+	}
+}

@@ -1,0 +1,19 @@
+class Laptop 
+{
+	String color = "Black";
+	int size = 3;
+	String ram = "4gb";
+	
+	public String LaptopDetails(){
+		return "work,Download,operate,game..." ;
+	}
+
+	public static void main(String[] args) 
+	{
+		Laptop b = new Laptop();//obj
+		Laptop b1 = new Laptop();
+		System.out.println(b);
+		System.out.println(b1);
+	}
+
+}
